@@ -82,6 +82,8 @@ This directory focuses on visual geometry output generation, requiring strict ma
 * Controlling text formatting streams (`\n`, `\t`, padding configurations).
 * Developing structural loop boundaries where outer iteration counters tightly govern internal loop conditions.
 
+---
+
 ### 5.Projects
 
 This directory consists of the mini projects done by me. Seperate readme files were added for each of the projects in their individual directories.
